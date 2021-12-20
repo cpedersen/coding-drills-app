@@ -1,0 +1,24 @@
+body {
+  background: #ddd;
+  font-family: sans;
+}
+
+.panel {
+  border: 1px solid black;
+  margin: 4px;
+  padding: 4px;
+  background: white;
+}
+
+h1 {
+  font-size: 16pt;
+  color: #d14141;
+}
+
+h2 {
+  font-size: 14pt;
+}
+
+p {
+  font-size: 10pt;
+}
